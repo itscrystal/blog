@@ -4,8 +4,9 @@ title: Re-designing Facebook’s User Flow
 author: Crystal
 date: 2017-09-09
 ---
-# Re-designing Facebook’s User Flow
+
 Task: Design a new sign up user flow for Facebook.
+
 Platform: iOS
 
 ## Table of Contents:
@@ -16,21 +17,16 @@ Platform: iOS
 5. New User Flow
 6. Resources
 
-
+---
 
 # Facebook's Original User Flow
 ## Mobile Screenshots and Flow
 I tested the on-boarding user flow for New Users on Facebook's iOS app and took screen shots as I went. I placed them on in a visual flow for me to reference as I mapped out their User Flow.
-[image:CCC482E7-0732-4274-A413-38B4F5BC2391-4573-0000290BB3B1DC9D/Faceboom-mobile-userflow.png]
 ![](https://static.notion-static.com/d890b6a2e61c40b18f29802ae43bbae3/Faceboom-mobile-userflow.png)
 
 ## User Flow Diagram
 Using [draw.io](http://draw.io) and the visual flow (pictured above), I mapped out the user flow for New Users:
-[image:8AD8B8E7-EB41-42B4-BF2C-BAA454C58398-4573-0000290F08ADFDBB/facebook-userflows-newuser-1.0.jpg]
 ![](https://static.notion-static.com/740b782b853a41d4ad844973cfd12241/facebook-userflows-newuser-1.0.jpg)
-
- [back to top](#topofpage) 
-
 
 # Questions and Potential Issues
 Here are potential problem spots and questions that I came up as I tested the on-boarding process and mapped their user flow.
@@ -46,9 +42,8 @@ Here are potential problem spots and questions that I came up as I tested the on
 - It takes an extra step to move between mobile and email input. Would it be more beneficial to place both on same page?
 - Where are these friend suggestions coming from? Are they even useful if they don't have any information from me? Do I have to search for my friends one at a time via their names?
 - On email confirmation, how useful is it to have additional options such as:
-	  - change email address
-	  - confirm by phone
-
+	  -- change email address
+	  -- confirm by phone
 
 # Research
 In this phase, I investigated the importance of and best practices for signups, forms, and their flows. See [resources](#resources) I used at the end of the case study.
@@ -81,6 +76,7 @@ Conversion and drop-off rates!
 - In-line validation
 - Mobile forms need to be easier than desktop counterparts. Simplify them!
 - Break form into smaller chunks.
+
 ### Common mistakes
 - Harsh Error notifications. Be polite.
 - Inflexible input data formats
@@ -90,15 +86,13 @@ Conversion and drop-off rates!
 - Too much legalese
 
 
-#  <a name=“strategy”>Strategy</a>
+#  Strategy
 After gathering data from testing and research, I brainstormed user stories and considered business requirements.
 
 ## User Stories
-[image:8463C381-7202-4886-932E-23176A82230F-4573-00002922CB7CE99F/777337C0-0C9F-41A5-B984-B0BD3F08A249.jpg]
 ![](https://static.notion-static.com/22510552-819d-48f7-a502-8ff9ab913017/777337C0-0C9F-41A5-B984-B0BD3F08A249.png)
 
 ## Business Requirements
-[image:46F33E33-1F83-472E-8CF5-BC3C8303B0A8-4573-000029422DF65951/F808C9C5-7991-4AE7-BBE1-677D1AD067FC.jpg]
 ![](https://static.notion-static.com/9da25dd5-1b12-4a76-a4dd-cdbb40f11eac/F808C9C5-7991-4AE7-BBE1-677D1AD067FC.png)
 
 
@@ -114,9 +108,7 @@ Below, you'll see the new user flow. Here is what changed:
 - For email/phone confirmation, I removed the option to change email address and verify by phone. Further testing would be needed here.
 - *MISSING FROM USER FLOW: option to resend confirmation email/message*
 
-[image:42885616-DEBD-48C8-B4F8-3734690758FB-4573-00002956656B6866/facebook-userflows-newuser-2.0.jpg]
 ![](https://static.notion-static.com/0777cd79e31f462eaadeda8b057a38d0/facebook-userflows-newuser-2.0.jpg)
-
 
 # Resources
 * [Designing UX Login Form and Process - UX Planet](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9)
