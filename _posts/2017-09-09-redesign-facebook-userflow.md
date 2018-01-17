@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A re-design of Facebook's iOS User Flow
+title: A Re-design of Facebook's iOS User Flow
 author: Crystal
 date: 2017-09-09
 ---
