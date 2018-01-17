@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 40rem;
   width: 80%;
 }
 
@@ -9,7 +9,7 @@ footer,
 .nav-container {
   display: block;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 40rem;
   width: 80%;
 }
 
@@ -26,6 +26,7 @@ footer,
   &-title {
     @include transition(all .2s ease-out);
     color: $default-color;
+    font-size: 1rem;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -63,6 +64,8 @@ footer,
   a {
     color: $default-color;
     font-family: $sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.07rem;
   }
 }
 
@@ -81,7 +84,7 @@ footer,
 }
 
 footer {
-  font-family: $serif-secondary;
+  font-family: $serif;
   padding: 2rem 0;
   text-align: center;
 
