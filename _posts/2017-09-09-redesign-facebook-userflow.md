@@ -96,12 +96,6 @@ After gathering data from testing and research, I brainstormed user stories and 
 
 ## Business Requirements
 ![](https://static.notion-static.com/9da25dd5-1b12-4a76-a4dd-cdbb40f11eac/F808C9C5-7991-4AE7-BBE1-677D1AD067FC.png)
-| ### As a business, we need... 	| ### ...because...                                       	|
-|-------------------------------	|---------------------------------------------------------	|
-| * users to accept legal terms 	| * we need to be protected.                              	|
-| * users' age                  	| * users must be min 13 years of age                     	|
-| * *details about the user **  	| * *we want to understand the demographics of our users* 	|
-
 
 #  New User Flow
 Below, you'll see the new user flow. Here is what changed:
