@@ -1,13 +1,13 @@
 # Site settings
 title:          Crystal
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+url:            "https://itscrystal.github.io/bloggy"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Crystal Tong
+  url:          https://crystaltong.co
+  email:        hello@crystaltong.co
 
 # Build settings
 markdown:       kramdown
