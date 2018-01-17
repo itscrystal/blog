@@ -26,17 +26,21 @@ body {
 
 h1 {
   font-family: $serif;
-  font-size: 4.25rem;
+  font-size: 2.625rem;
   font-weight: 700;
+  margin-top: 2.625em;
 }
 
 h2 {
-  font-size: 2.625rem;
+  font-size: 1.625rem;
   font-weight: 200;
+  margin-top: 1.625em;
 }
 
 h3 {
   font-size: 1rem;
+  margin-top: 1.625em;
+  margin-bottom: 1rem;
 }
 
 h1,
@@ -47,7 +51,6 @@ h5,
 h6 {
   color: $default-color;
   line-height: 1.25em;
-  margin-top: 1.625em;
   margin-bottom: 1.625rem;
 }
 
@@ -73,7 +76,7 @@ blockquote {
 
 img {
   display: block;
-  margin: 0 0 1rem;
+  margin: 1rem 0;
   max-width: 100%;
 }
 
