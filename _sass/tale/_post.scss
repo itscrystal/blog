@@ -16,15 +16,15 @@
     color: $default-color;
     font-family: $serif;
     font-size: 4.25rem;
-    margin: 1rem 0;
+    margin: 1rem 0 2.625rem;
     text-align: center;
   }
 
   &-line {
     border-top: 0.4rem solid $default-shade;
     display: block;
-    margin: 0 auto 3rem;
-    width: 4rem;
+    margin: 0 auto 2.625rem;
+    width: 4.24rem;
   }
 
   p {
@@ -43,7 +43,7 @@
     color: $default-tint;
     display: block;
     font-family: $sans-serif;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     font-style: normal;
     text-align: center;
   }
