@@ -5,7 +5,7 @@ author: Crystal
 date: 2017-10-18
 ---
 
-Here's an example of a simple branding guide that I created for Craigslist. A quick disclaimer: This is not official work. It is something I did to play around and practice some skills, and decided to share with others!
+Here's an example of a simple branding guide that I created for Craigslist. A quick disclaimer: This is an unsolicited redisign, not paid work. It is something I did to play around and practice some skills, and decided to share with others!
 
 [Craigslist_BrandingGuide.pdf](https://static.notion-static.com/ce7bc2fb-5e07-4ff9-9510-3d6319118278/Craigslist_BrandingGuide.pdf)
 
