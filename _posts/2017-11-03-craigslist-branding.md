@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Craigslist Rebrand Design Sprint
+title: Design Sprinting Craigslist Rebrand
 author: Crystal
 date: 2017-11-03
 ---
