@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Craigslist Rebrand, a Design Sprint
+title: Craigslist Rebrand, a Two-Day Design Sprint
 author: Crystal
-date: 2017-11-03
+date: 2018-01-24
 ---
 
 ## The Challenge
