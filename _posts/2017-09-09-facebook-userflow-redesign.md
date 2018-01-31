@@ -1,15 +1,11 @@
 ---
 layout: post
-title: A Re-design of Facebook's iOS User Flow
+title: Redesign: Facebook's iOS User Flow
 author: Crystal
 date: 2017-09-09
 ---
 
-Task: Design a new sign up user flow for Facebook.
-
-Platform: iOS.
-
-Time: 24 hours.
+Task: Design a new sign up user flow for Facebook's iOS app. You have 24 hours. 
 
 ## Table of Contents:
 1. Facebook's Original User Flow
@@ -24,11 +20,11 @@ Time: 24 hours.
 # Facebook's Original User Flow
 ## Mobile Screenshots and Flow
 I tested the on-boarding user flow for New Users on Facebook's iOS app and took screen shots as I went. I placed them on in a visual flow for me to reference as I mapped out their User Flow.
-![](https://static.notion-static.com/d890b6a2e61c40b18f29802ae43bbae3/Faceboom-mobile-userflow.png)
+[![Screenshots of FB iOS Onboarding Flow](https://static.notion-static.com/a7e08200-e333-42d2-8c00-d84b579d46a5/facebook-screenflow-mobile-no-margins.png)](https://static.notion-static.com/a7e08200-e333-42d2-8c00-d84b579d46a5/facebook-screenflow-mobile-no-margins.png)
 
 ## User Flow Diagram
 Using [draw.io](http://draw.io) and the visual flow (pictured above), I mapped out the user flow for New Users:
-![](https://static.notion-static.com/740b782b853a41d4ad844973cfd12241/facebook-userflows-newuser-1.0.jpg)
+[![FB Original New-User Flow](https://static.notion-static.com/16d24ce7-25c4-489b-baac-c7c862a027e7/facebook-userflows-newuser-1.0_copy-no-margins.jpeg)](https://static.notion-static.com/a7e08200-e333-42d2-8c00-d84b579d46a5/facebook-screenflow-mobile-no-margins.png)
 
 # Questions and Potential Issues
 Here are potential problem spots and questions that I came up as I tested the on-boarding process and mapped their user flow.
@@ -60,7 +56,8 @@ Conversion and drop-off rates!
 - Users don't understand why certain information is required, again leading to the issues with privacy and trust.
 
 ## The Do's and Don'ts
-![](https://static.notion-static.com/99419468-c8fc-4ffe-9293-c3b12e80b13a/B046129F-58D0-4B09-A464-09E6C0756F08.png)
+
+[![Do's and Don'ts](https://static.notion-static.com/580be6c9-a0af-4e5c-beed-8d83570b362a/4DF2E79B-7C46-49E2-B02B-B0D93422D773.png)](https://static.notion-static.com/580be6c9-a0af-4e5c-beed-8d83570b362a/4DF2E79B-7C46-49E2-B02B-B0D93422D773.png)
 
 ## Smashing UX Design on Forms
 ### General Notes
@@ -92,10 +89,10 @@ Conversion and drop-off rates!
 After gathering data from testing and research, I brainstormed user stories and considered business requirements.
 
 ## User Stories
-![](https://static.notion-static.com/22510552-819d-48f7-a502-8ff9ab913017/777337C0-0C9F-41A5-B984-B0BD3F08A249.png)
+[![User Stories](https://static.notion-static.com/b611ba6f-a341-4dc0-9cbc-f00a07668b08/B74580D0-7ACD-473A-AD7F-29632F305B5B.png)](https://static.notion-static.com/b611ba6f-a341-4dc0-9cbc-f00a07668b08/B74580D0-7ACD-473A-AD7F-29632F305B5B.png)
 
 ## Business Requirements
-![](https://static.notion-static.com/9da25dd5-1b12-4a76-a4dd-cdbb40f11eac/F808C9C5-7991-4AE7-BBE1-677D1AD067FC.png)
+[![Business Requirements](https://static.notion-static.com/5ded15c6-8da5-48ba-9f60-4e1073b08852/AF396444-E063-4A02-AAF5-24F21E89609C.png)](https://static.notion-static.com/5ded15c6-8da5-48ba-9f60-4e1073b08852/AF396444-E063-4A02-AAF5-24F21E89609C.png)
 
 #  New User Flow
 Below, you'll see the new user flow. Here is what changed:
@@ -108,13 +105,13 @@ Below, you'll see the new user flow. Here is what changed:
 - For email/phone confirmation, I removed the option to change email address and verify by phone. Further testing would be needed here.
 - *MISSING FROM USER FLOW: option to resend confirmation email/message*
 
-![](https://static.notion-static.com/0777cd79e31f462eaadeda8b057a38d0/facebook-userflows-newuser-2.0.jpg)
+[![Improved User Flow](https://static.notion-static.com/04b1d88b-3ea9-46ae-9310-c5514494d65a/facebook-userflows-newuser-2.0-no-margins.jpeg)](https://static.notion-static.com/04b1d88b-3ea9-46ae-9310-c5514494d65a/facebook-userflows-newuser-2.0-no-margins.jpeg)
 
 # Resources
-* [Designing UX Login Form and Process - UX Planet](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9)
-* [UX Flows: How to Craft Effective Sign-ups](https://www.dtelepathy.com/blog/design/ux-flows-sign-ups)
-* [10 Ways to Present Legal Terms at Sign-up](https://www.pactsafe.com/blog/10-ways-to-present-legal-terms-at-sign-up)
-* [Smashing UX Design](https://www.goodreads.com/book/show/8675550-smashing-ux-design)
+* [Designing UX Login Form and Process - UX Planet](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9) by [Nick Babich](http://babich.biz/)
+* [UX Flows: How to Craft Effective Sign-ups](https://www.dtelepathy.com/blog/design/ux-flows-sign-ups) by [MK Cook](https://www.dtelepathy.com/blog/author/mkdigital-telepathy-com)
+* [10 Ways to Present Legal Terms at Sign-up](https://www.pactsafe.com/blog/10-ways-to-present-legal-terms-at-sign-up) by Amber Ferrari
+* [Book: _Smashing UX Design_ by Jesmond Allen & James Chudley](https://www.goodreads.com/book/show/8675550-smashing-ux-design)
 
 
  _Fin._
