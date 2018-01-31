@@ -2,7 +2,7 @@
 layout: post
 title: Redesigning Facebook's iOS User Flow
 author: Crystal
-date: 2017-09-09
+date: 2018-01-04
 ---
 
 ## The Challenge
