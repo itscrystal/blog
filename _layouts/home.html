@@ -13,7 +13,7 @@ layout: default
           {{ post.content | truncatewords: 25 | strip_html }}
         </p>
         
-        <span>Published on&nbsp;</span><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
 
       </div>
     </a>
