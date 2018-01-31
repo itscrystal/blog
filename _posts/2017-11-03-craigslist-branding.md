@@ -70,19 +70,21 @@ Prospects aren't looking too good. What can we do?
 
 ## The Questions
 
-Considering the feedback given by users about their impressions of Craigslist, I identified a few problems that needed to be addressed. 
+Considering the feedback given by users about their impressions of Craigslist, I identified a few problems that needed to be addressed. Please note: If this were a real rebrand, further user research would be conducted to answer these questions. 
 
-**Problem 1: How do we reverse these negative associations users have of Craigslist?** I narrowed it down to a few words that **counter** the negative ones and describe a more attractive personality:
+### Problem 1: How do we reverse these negative associations users have of Craigslist?
+I narrowed it down to a few words that **counter** the negative ones and describe a more attractive personality:
 
 - Modern
 - Safe, Trustworthy
 - Energetic, Fun
 
-**Problem 2: How do we make users feel good by using Craigslist?** That is, how do make users feel positive about themselves, their experience, and dispel issues or fears around safety? How might we increase the product's perceived value to counter its image of being cheap and spammy? 
+### Problem 2: How do we make users feel good by using Craigslist?
+That is, how do make users feel positive about themselves, their experience, and dispel issues or fears around safety? How might we increase the product's perceived value to counter its image of being cheap and spammy? 
 
-**Problem 3: How much do we need to consider users' discomfort with change?** That is, how excited or frustrated might users be if we changed our brand? Will they enjoy it right away? Or will it be shocking to the point of discontinued use? Or maybe they'll begin to enjoy it more once the initial shock wears off?
+### Problem 3: How much do we need to consider users' discomfort with change?
+That is, how excited or frustrated might users be if we changed our brand? Will they enjoy it right away? Or will it be shocking to the point of discontinued use? Or maybe they'll begin to enjoy it more once the initial shock wears off?
 
-Note: If this were a real rebrand, further user research would be conducted to answer these questions. 
 
 ## Sidebar: Could a lack of brand be the brand?
 
@@ -132,9 +134,9 @@ Additionally, it might be more effective to keep Craigslist's original peace log
 
 The resulting Branding Guide is by no means a comprehensive, finished, or polished one, due to the limited time I set. However, it's enough to get the idea across. Check it out!
 
-![](https://static.notion-static.com/093566b7-6ca5-4ad7-afac-8bd1184f774d/Logo.jpg)
+![](https://static.notion-static.com/77b2521e-4423-4753-9a5f-23b0590715c8/Logo-no-margin.jpg)
 
-![](https://static.notion-static.com/8f1b49de-75f1-481c-ae9f-7e3de7ef5d6b/Palette.jpg)
+![](https://static.notion-static.com/d56b2d6d-42f9-46d7-baa3-a4608b269266/Palette-no-margin.jpg)
 
 Utilizing the themes of being energetic, modern, and safe, I selected Orange and Purple to be its main color schema.
 
@@ -142,11 +144,11 @@ Purple was chosen because of its easy transition from the old purple logo and ab
 
 Orange was chosen to contrast purple and bring a sense of energy, playfulness, and creativity. 
 
-![](https://static.notion-static.com/2bb994c0-bf01-4593-bc7d-9bbde8a7a363/Typeface.jpg)
+![](https://static.notion-static.com/3d206dbb-7b4b-4e67-add1-7c377d38ecea/Typeface-no-margin.jpg)
 
 For the typeface, I chose Roboto for its modern style, versatility, and readability, especially for large blocks of text. 
 
-![](https://static.notion-static.com/8313dccb-63ea-4406-92a6-bdcb8ce0f931/Imagery.jpg)
+![](https://static.notion-static.com/f35bda2e-d3ff-4502-b64a-090a30a385d7/Imagery-no-margin.jpg)
 
 ## Sample Usage
 
