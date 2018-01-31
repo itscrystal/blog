@@ -28,20 +28,24 @@ h1 {
   font-family: $serif;
   font-size: 2.625rem;
   font-weight: 700;
-  margin-top: 2.625em;
-  margin-bottom: 1.625rem;
+  margin-top: 4.25rem;
+  margin-bottom: 0;
 }
 
 h2 {
   font-size: 1.625rem;
   font-weight: 200;
-  margin-top: 1.625em;
+  margin-top: 4.25rem;
   margin-bottom: 1.625rem;
+}
+
+h1+h2 {
+  margin-top: 2.625rem;
 }
 
 h3 {
   font-size: 1rem;
-  margin-top: 1.625em;
+  margin-top: 2.625em;
   margin-bottom: 1rem;
 }
 
@@ -61,23 +65,18 @@ a {
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
   color: $grey-1;
-  margin: .8rem 0;
-  padding: .5rem 1rem;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 600px) {
-    padding: 0 5rem 0 1.25rem;
-  }
+  border-left: 5px solid #ddd;
+  margin: 1.625rem 0 2.625rem;
+  padding: 0.5rem 0 1rem 1.625rem;
+  font-size: 1.625rem;
+  font-style: italic;
+  font-family: $serif;
 }
 
 ul, ol {
   padding-left: 0;
-  margin: 0 0 2rem;
+  margin: 1rem 0 1.625rem;
 }
 
 li {
@@ -87,7 +86,7 @@ li {
 
 img {
   display: block;
-  margin: 1rem 0;
+  margin: 2.625rem auto 2.625rem;
   max-width: 100%;
 }
 
