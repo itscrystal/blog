@@ -160,12 +160,12 @@ _Example of how visual elements would be used after rebrand._
 * [Craigslist Stakeholder Interview Checklist](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
 
 ### Articles
-* [How Craigslist's Founder Realized He Sucked as a Manager](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html) - by [Jon Fine](https://twitter.com/jonfine), *Inc.*
-* [What Did We Learn From the Dotcom Stock Bubble of 2000?](http://time.com/3741681/2000-dotcom-stock-bust/) - by Ben Geier, *Time* Magazine
-* [55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo) - by [Preston D Lee](https://twitter.com/prestondlee), *Millo*
-* [Stakeholder Interview Template](https://www.uxapprentice.com/resources/stakeholder-interview-template/) - *UX Apprentice*
-* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - by Kim Goodwin, *Boxes and Arrows*
-* [How to create a brand style guide](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/) - by Shirley Chan, *99designs Blog*
+* [How Craigslist's Founder Realized He Sucked as a Manager](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html) - by [Jon Fine](https://twitter.com/jonfine), Inc.
+* [What Did We Learn From the Dotcom Stock Bubble of 2000?](http://time.com/3741681/2000-dotcom-stock-bust/) - by Ben Geier, Time Magazine
+* [55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo) - by [Preston D Lee](https://twitter.com/prestondlee), Millo
+* [Stakeholder Interview Template](https://www.uxapprentice.com/resources/stakeholder-interview-template/) - UX Apprentice
+* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - by Kim Goodwin, Boxes and Arrows
+* [How to create a brand style guide](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/) - by Shirley Chan, 99designs Blog
 
 ### Tools
 * [The digital design toolkit](https://www.sketchapp.com/)
