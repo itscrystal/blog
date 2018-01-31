@@ -5,7 +5,8 @@ author: Crystal
 date: 2017-09-09
 ---
 
-Task: Design a new sign up user flow for Facebook's iOS app. You have 24 hours. 
+## The Challenge
+Design a new sign up user flow for Facebook's iOS app in 24 hours. 
 
 ## Table of Contents:
 1. Facebook's Original User Flow
