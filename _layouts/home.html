@@ -13,6 +13,8 @@ layout: default
         <p>
           {{ post.content | truncatewords: 30 | strip_html }}
         </p>
+        
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
 
       </div>
     </a>
