@@ -5,7 +5,7 @@ author: Crystal
 date: 2017-11-03
 ---
 
-## Task
+## The Challenge
 Rebrand Craigslist and create a simple, new branding guide in 48 hours.
 
 ## Table of Contents
