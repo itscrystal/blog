@@ -8,7 +8,7 @@ date: 2017-09-09
 ## The Challenge
 Design a new sign up user flow for Facebook's iOS app in 24 hours. 
 
-## Table of Contents:
+## Table of Contents
 1. Facebook's Original User Flow
 2. Questions & Potential Issues
 3. Research 
