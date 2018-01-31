@@ -24,18 +24,18 @@ Rebrand Craigslist and create a simple, new branding guide in 48 hours.
 ## Craigslist over the years
 
 Craigslist was founded in 1995 by [Craig Newmark](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html), around the beginning of the [dot-com bubble](http://time.com/3741681/2000-dotcom-stock-bust/). The website has not changed much over the years; Information architecture has remained virtually the same and visual design is arguably non-existent.
-![](https://static.notion-static.com/810c8bc3-a744-4970-badb-24823fc55981/craigslist-overtheyears.png)
+[![Craigslist over the years](https://static.notion-static.com/810c8bc3-a744-4970-badb-24823fc55981/craigslist-overtheyears.png)](https://static.notion-static.com/810c8bc3-a744-4970-badb-24823fc55981/craigslist-overtheyears.png)
 _Craigslist's site in 1998, 2000, and 2010._
 
 
 The logo is reminiscent of a 1990s-style previously-visited link.
 
-![](https://static.notion-static.com/70d4dbce-6d5c-43b0-afdc-0c281a3a4ac1/craigslist-logo-transparent-2.png)
+[![Craigslist Logo](https://static.notion-static.com/70d4dbce-6d5c-43b0-afdc-0c281a3a4ac1/craigslist-logo-transparent-2.png)](https://static.notion-static.com/70d4dbce-6d5c-43b0-afdc-0c281a3a4ac1/craigslist-logo-transparent-2.png)
 _Craigslist's logo._
 
 Does Craigslist need a rebrand? What would it look like if it did? I spent a couple of attempting to answer these questions on my own. I conducted some research on Craigslist's brand, gauged users' impressions, explored solutions, and crafted a simple, hypothetical redesign on their brand.
 
-![](https://static.notion-static.com/2414184c-2d55-4951-97b3-9476daeac7e7/craigslist-process.png)
+[![My Process, Craigslist Rebrand](https://static.notion-static.com/2414184c-2d55-4951-97b3-9476daeac7e7/craigslist-process.png)](https://static.notion-static.com/2414184c-2d55-4951-97b3-9476daeac7e7/craigslist-process.png)
 _My process used to do a quick Craigslist Rebrand._
 
 
@@ -55,7 +55,7 @@ It's important to understand how your brand is being received by your audience. 
 
 Here are some of the things they said: 
 
-![](https://static.notion-static.com/44c069eb-b177-41be-8643-2cd5c6719fbf/craigslist-wordcloud.png)
+[![Respondents, word cloud](https://static.notion-static.com/44c069eb-b177-41be-8643-2cd5c6719fbf/craigslist-wordcloud.png)](https://static.notion-static.com/44c069eb-b177-41be-8643-2cd5c6719fbf/craigslist-wordcloud.png)
 _Words respondents used to describe Craigslist._ 
 
 On the positive side, users thought Craigslist was convenient and functional (i.e. provided ways for them to get certain tasks done). It was also familiar and recognizable.
@@ -100,7 +100,7 @@ I began exploring different traits that could potentially describe the new-and-i
 1. Energetic
 1. Safe
 
-![](https://static.notion-static.com/c0bb44ac-a014-4c74-8f40-02a359b7d24a/craigslist-2-brainmap-v4.jpg)
+[![Mind mapping personality of new Craigslist](https://static.notion-static.com/c0bb44ac-a014-4c74-8f40-02a359b7d24a/craigslist-2-brainmap-v4.jpg)](https://static.notion-static.com/c0bb44ac-a014-4c74-8f40-02a359b7d24a/craigslist-2-brainmap-v4.jpg)
 _Mind-mapping possible personality traits of new brand._
 
 Items 2 and 3 were imported from the list of counter words in the Question-Storming stage. "Modern" weaseled its way into the "Energetic" map. 
@@ -115,7 +115,7 @@ One interesting concept that came up was "Dinosaur." Hmm, I thought. People find
 
 I also explored a thumbtack to mirror real life listing on a bulletin board, a magnifying glass to suggest searching listings, various letterings, and their original peace sign. 
 
-![](https://static.notion-static.com/ae0b57b2-2755-4657-876f-5d4f6dfb2ce0/craigslist-3-logo-sketches.JPG)
+[![Logo Sketches](https://static.notion-static.com/ae0b57b2-2755-4657-876f-5d4f6dfb2ce0/craigslist-3-logo-sketches.JPG)](https://static.notion-static.com/ae0b57b2-2755-4657-876f-5d4f6dfb2ce0/craigslist-3-logo-sketches.JPG)
 _Sketching and exploring different logos._
 
 As I sketched this, a notable question sprung up:
