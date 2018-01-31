@@ -8,18 +8,11 @@ date: 2017-11-03
 # Table of Contents
 
 1. Introduction
-1. Re-Discovery
-    1. Stakeholder Interviews
-    1. User Research
-1. Problem Definition
-    1. The Questions
-    1. Could Lack of Brand be a brand?
-1. Ideation
-    1. Mind-Mapping Personality
-    1. Logo Exploration
-1. Creation
-  1. The Branding Guide
-1. Resources
+2. Re-Discovery
+3. Problem Definition
+4. Ideation
+5. Creation
+6. Resources
 
 # Intro
 
@@ -162,12 +155,12 @@ _Example of how visual elements would be used after rebrand._
 * [Craigslist Stakeholder Interview Checklist](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
 
 ### Articles
-* [How Craigslist's Founder Realized He Sucked as a Manager](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html) - Inc.
-* [What Did We Learn From the Dotcom Stock Bubble of 2000?](http://time.com/3741681/2000-dotcom-stock-bust/) - Time Magazine
-* [55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo)
-* [Stakeholder Interview Template : UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/)
-* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
-* [How to create a brand style guide - 99designs Blog](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/)
+* [How Craigslist's Founder Realized He Sucked as a Manager](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html) - by [Jon Fine](https://twitter.com/jonfine), *Inc.*
+* [What Did We Learn From the Dotcom Stock Bubble of 2000?](http://time.com/3741681/2000-dotcom-stock-bust/) - by Ben Geier, *Time* Magazine
+* [55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo) - by [Preston D Lee](https://twitter.com/prestondlee), *Millo*
+* [Stakeholder Interview Template](https://www.uxapprentice.com/resources/stakeholder-interview-template/) - *UX Apprentice*
+* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - by Kim Goodwin, *Boxes and Arrows*
+* [How to create a brand style guide](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/) - by Shirley Chan, *99designs Blog*
 
 ### Tools
 * [The digital design toolkit](https://www.sketchapp.com/)
