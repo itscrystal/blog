@@ -5,7 +5,8 @@ author: Crystal
 date: 2017-11-03
 ---
 
-## Task: Rebrand Craigslist and create a new branding guide. You have 48 hours.
+## Task
+Rebrand Craigslist and create a simple, new branding guide in 48 hours.
 
 ## Table of Contents
 
