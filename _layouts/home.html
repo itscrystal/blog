@@ -12,7 +12,7 @@ layout: default
           {{ post.content | truncatewords: 50 | strip_html }}
         </p>
         
-        <span>Published on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        <span>Published on&nbsp;</span><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
 
       </div>
     </a>
