@@ -11,10 +11,10 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$serif: Playfair Display, serif;
-$serif-primary: Playfair Display, serif;
-$serif-secondary: Playfair Display, serif;
-$sans-serif: Open Sans, sans-serif;
+$serif: Playfair Display, PT serif, serif;
+$serif-primary: Playfair Display, PT serif, serif;
+$serif-secondary: Playfair Display, PT serif, serif;
+$sans-serif: Open Sans, Noto Sans, Trebuchet MS, sans-serif;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
