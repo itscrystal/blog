@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Rebrand Sprint for Craigslist
+title: Design Sprint: Craigslist Rebrand
 author: Crystal
 date: 2017-11-03
 ---
 
-# Table of Contents
+Task: Rebrand Craigslist and create a new branding guide. You have 48 hours.
+
+## Table of Contents
 
 1. Introduction
 2. Re-Discovery
@@ -14,7 +16,7 @@ date: 2017-11-03
 5. Creation
 6. Resources
 
-# Intro
+# Introduction
 
 ## Craigslist over the years
 
