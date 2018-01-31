@@ -3,7 +3,8 @@
     border-bottom: 1px solid $grey-2;
     color: $default-color;
     display: inline-block;
-    padding: 2.625rem 0 1.625rem;
+    padding: 1rem 0;
+    margin-bottom: 1.625rem;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
