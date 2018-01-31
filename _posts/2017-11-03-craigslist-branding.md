@@ -7,29 +7,33 @@ date: 2017-11-03
 
 # Table of Contents
 
-1. Introduction: Craigslist, Over the Years
+1. Introduction
 1. Re-Discovery
-  1. Stakeholder Interviews
-  1. User Research
+    1. Stakeholder Interviews
+    1. User Research
 1. Problem Definition
-  1. The Questions
-  1. Could Lack of Brand be a brand?
+    1. The Questions
+    1. Could Lack of Brand be a brand?
 1. Ideation
-  1. Mind-Mapping Personality
-  1. Logo Exploration
+    1. Mind-Mapping Personality
+    1. Logo Exploration
 1. Creation
   1. The Branding Guide
 1. Resources
 
-# Intro: Craigslist over the years
+# Intro
 
-Craigslist's website has not changed over the years. 
+## Craigslist over the years
 
+Craigslist was founded in 1995 by [Craig Newmark](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html), around the beginning of the [dot-com bubble](http://time.com/3741681/2000-dotcom-stock-bust/). The website has not changed much over the years; Information architecture has remained virtually the same and visual design is arguably non-existent.
 ![](https://static.notion-static.com/810c8bc3-a744-4970-badb-24823fc55981/craigslist-overtheyears.png)
+_Craigslist's site in 1998, 2000, and 2010._
 
-Its logo looks like a 90s style link you have previously visited.
+
+The logo is reminiscent of a 1990s-style previously-visited link.
 
 ![](https://static.notion-static.com/70d4dbce-6d5c-43b0-afdc-0c281a3a4ac1/craigslist-logo-transparent-2.png)
+_Craigslist's logo._
 
 Does Craigslist need a rebrand? What would it look like if it did? I spent a couple of attempting to answer these questions on my own. I conducted some research on Craigslist's brand, gauged users' impressions, explored solutions, and crafted a simple, hypothetical redesign on their brand.
 
@@ -43,9 +47,7 @@ _My process used to do a quick Craigslist Rebrand._
 
 It's important for anyone getting involved in a project to understand as much about it as possible: Why are we rebranding? How will we define success? Who are our audience and our competitors? How long will this take? What restraints do we have? And so on. Expectations, hopes, and fears are also important to take into consideration.
 
-As this was a hypothetical rebrand, I wasn't able to sit down with actual stakeholders to conduct interviews. However, because it's crucial to consider scope, goal definition, and  empathy for stakeholders, I developed a checklist of questions that would be asked if an interview were to happen: 
-
-[craigslist-stakeholder-interview](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
+As this was a hypothetical rebrand, I wasn't able to sit down with actual stakeholders to conduct interviews. However, because it's crucial to consider scope, goal definition, and  empathy for stakeholders, I developed a checklist of questions that would be asked if an interview were to happen: [Craigslist Stakeholder Interview Checklist](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
 
 ## Users' Impressions
 
@@ -149,27 +151,23 @@ For the typeface, I chose Roboto for its modern style, versatility, and readabil
 ## Sample Usage
 
 ![](https://static.notion-static.com/b77cef41-32ed-4077-b663-97c1be0140d1/Sample_Usage.jpg)
+_Example of how visual elements would be used after rebrand._
 
 # Resources
 
-[Craigslist_BrandingGuide.pdf](https://static.notion-static.com/ce7bc2fb-5e07-4ff9-9510-3d6319118278/Craigslist_BrandingGuide.pdf)
+### Deliverables
+* [Craigslist_BrandingGuide.pdf](https://static.notion-static.com/ce7bc2fb-5e07-4ff9-9510-3d6319118278/Craigslist_BrandingGuide.pdf)
+* [Craigslist Stakeholder Interview Checklist](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
 
-Download [Craigslist Stakeholder Interview Checklist](https://docs.google.com/document/d/1jRx-rH-O53WnAiNaHX_bLxHbCqX7Dn9VWBEEM5sxksw/edit?usp=sharing)
+### Articles
+* [How Craigslist's Founder Realized He Sucked as a Manager](https://www.inc.com/magazine/201609/jon-fine/inc-interview-craigslist.html) - Inc.
+* [What Did We Learn From the Dotcom Stock Bubble of 2000?](http://time.com/3741681/2000-dotcom-stock-bust/) - Time Magazine
+* [55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo)
+* [Stakeholder Interview Template : UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/)
+* [A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
+* [How to create a brand style guide - 99designs Blog](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/)
 
-## Articles
-
-[55+ Questions to ask when designing a logo](http://millo.co/55-questions-to-ask-when-designing-a-logo)
-
-[Stakeholder Interview Template : UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/)
-
-[A Stakeholder Interview Checklist](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
-
-[How to create a brand style guide - 99designs Blog](https://99designs.com/blog/tips/how-to-create-a-brand-style-guide/)
-
-## Tools
-
-[The digital design toolkit](https://www.sketchapp.com/)
-
-[Google Fonts](https://fonts.google.com/)
-
-[](http://amzn.to/2DS6KvW)
+### Tools
+* [The digital design toolkit](https://www.sketchapp.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Moleskine Dotted Notebook, XL](http://amzn.to/2DS6KvW)
