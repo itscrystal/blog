@@ -112,7 +112,7 @@ Below, you'll see the new user flow. Here is what changed:
 * [Designing UX Login Form and Process - UX Planet](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9) by [Nick Babich](http://babich.biz/)
 * [UX Flows: How to Craft Effective Sign-ups](https://www.dtelepathy.com/blog/design/ux-flows-sign-ups) by [MK Cook](https://www.dtelepathy.com/blog/author/mkdigital-telepathy-com)
 * [10 Ways to Present Legal Terms at Sign-up](https://www.pactsafe.com/blog/10-ways-to-present-legal-terms-at-sign-up) by Amber Ferrari
-* [Book: _Smashing UX Design_ by Jesmond Allen & James Chudley](https://www.goodreads.com/book/show/8675550-smashing-ux-design)
+* [Book: Smashing UX Design by Jesmond Allen & James Chudley](https://www.goodreads.com/book/show/8675550-smashing-ux-design)
 
 
  _Fin._
