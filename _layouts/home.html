@@ -9,7 +9,7 @@ layout: default
         <h1 class="catalogue-title">{{ post.title }}</h1>
 
         <p>
-          {{ post.content | truncatewords: 30 | strip_html }}
+          {{ post.content | truncatewords: 50 | strip_html }}
         </p>
         
         <span>Published on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
