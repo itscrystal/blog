@@ -25,7 +25,7 @@ I tested the on-boarding user flow for New Users on Facebook's iOS app and took 
 
 ## User Flow Diagram
 Using [draw.io](http://draw.io) and the visual flow (pictured above), I mapped out the user flow for New Users:
-[![FB Original New-User Flow](https://static.notion-static.com/16d24ce7-25c4-489b-baac-c7c862a027e7/facebook-userflows-newuser-1.0_copy-no-margins.jpeg)](https://static.notion-static.com/a7e08200-e333-42d2-8c00-d84b579d46a5/facebook-screenflow-mobile-no-margins.png)
+[![FB Original New-User Flow](https://static.notion-static.com/16d24ce7-25c4-489b-baac-c7c862a027e7/facebook-userflows-newuser-1.0_copy-no-margins.jpeg)](https://static.notion-static.com/16d24ce7-25c4-489b-baac-c7c862a027e7/facebook-userflows-newuser-1.0_copy-no-margins.jpeg)
 
 # Questions and Potential Issues
 Here are potential problem spots and questions that I came up as I tested the on-boarding process and mapped their user flow.
