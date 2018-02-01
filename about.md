@@ -14,8 +14,8 @@ When I discovered UX, I was completely new to the tech industry and, quite frank
 
 Now, I'm seeking more challenging UX opportunities to grow and improve. In the mean time, I'm designing a new iOS game with a small team, blogging, and chasing entrepreneurial pursuits. I also teach yoga and meditation. :)
 
-## Let's connect!
-Want to work with me or check out my stuff? Feel free to reach out to me through any of the links below. Thanks for stopping by!
+## Let's start a conversation!
+Want to work with me or have a chat? Feel free to connect with me. I love meeting new walks of life. Thanks for stopping by!
 
 [Portfolio](http://crystaltong.co/) | 
 [Email](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hello@crystaltong.co&su=UX%20Design%20is%20dandy) | 
