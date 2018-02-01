@@ -12,10 +12,10 @@ By the way, my name is Crystal Tong. I'm a [UX Designer](http://crystaltong.co/)
 
 When I discovered UX, I was completely new to the tech industry and, quite frankly, a little overwhelmed. But it fired up my love for psychology, problem solving, empathy, creativity, and impact on the world. I dove into the challenge and completed 1000+ hours in an end-to-end UX Design apprenticeship at [Bloc](https://bloc.io). 
 
-Now, I'm seeking more challenging UX opportunities to grow and improve. In the mean time, I'm designing a new iOS game with a small team, blogging, and chasing entrepreneurial pursuits. I also teach yoga and meditation. :)
+Now, I'm seeking more challenging UX opportunities to grow and improve. In the mean time, I'm designing a new iOS game with a small team, blogging, and chasing entrepreneurial pursuits. I also teaching yoga and meditation. Namaste~ 
 
 ## Let's start a conversation!
-Want to work with me or have a chat? Feel free to connect with me. I love meeting new walks of life. Thanks for stopping by!
+Interested in working together, getting coffee, or telling Dad jokes? Feel free to connect with me! I delight in meeting new people. :)
 
 [Portfolio](http://crystaltong.co/) | 
 [Email](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hello@crystaltong.co&su=UX%20Design%20is%20dandy) | 
